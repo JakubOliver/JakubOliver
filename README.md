@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently studying MFF UK<br>⚡ I'm interested in Math and Computer Science
 
 
